@@ -17,3 +17,10 @@ If you want to be proficient in something you need to practice. Welcome to this 
 </h2>
 
 This time I'm testing some HTML5 elements to make this page beautiful.
+
+## Another formatting things
+
+- [x] @paulohcorreia, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
