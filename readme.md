@@ -1,10 +1,10 @@
-<p style="text-align:center">
+<p style="text-align:center;">
   <img src="https://octodex.github.com/images/filmtocat.png" height="200 px" width="200 px" alt="Welcome">
 </p>
 
+<h1 style="text-align:center;">Welcome <br>to<br> some page <br>on<br> Github</h1>
+
 # Git-it
-
-
 
 ### <span class='icon icon-info'></span> Just another Git course
 
