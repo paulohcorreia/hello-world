@@ -1,10 +1,10 @@
-<p style="text-align:center;" markdown="1">
-  <img src="https://octodex.github.com/images/filmtocat.png" alt="Welcome" height="150 px" width="150 px"> 
+<p align="center">
+  <img src="https://octodex.github.com/images/filmtocat.png" alt="Welcome" height="150 px" width="150 px">
 </p>
 
-<h1 style="text-align: center;" markdown="1">Welcome to some page on Github</h1>
+<h1 align="center">Welcome to some page on Github</h1>
 
-<h3 style="text-align: center;" markdown="1">This is a level 3 heading.</h3>
+<h3 align="center">Style is not an option</h3>
 
 # Git-it
 
