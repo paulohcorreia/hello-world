@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://octodex.github.com/images/filmtocat.png" alt="Welcome" height="150 px" width="150 px">
+  <img src="https://github.com/paulohcorreia/hello-world/blob/master/lady_sif_of_asgard_by_spiderguile.png" alt="Welcome" height="150 px" width="150 px">
 </p>
 
 <h1 align="center">Welcome to some page on Github</h1>
